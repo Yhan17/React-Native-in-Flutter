@@ -1,0 +1,12 @@
+{
+  "name": "flutter_to_react_native",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx react-native start"
+  },
+  "dependencies": {
+    "react": "^18.3.0-next-fecc288b7-20221025",
+    "react-native": "^0.71.0"
+  }
+}
